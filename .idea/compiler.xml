@@ -3,7 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="Chapter10InnerClass" target="1.8" />
-      <module name="thinkinjava" target="1.8" />
+      <module name="thinkinjava" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
